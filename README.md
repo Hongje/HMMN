@@ -16,7 +16,7 @@ Please see our paper for the details: [[paper]](https://arxiv.org/abs/2109.11404
 * numpy, opencv, pillow
 
 ## Trained model
-* Download pre-trained weights into the same folder with demo scripts <br>Link: [[weights](https://drive.google.com/file/d/1Vm4Hf6hCdIAXdLQDWiTG8DWn4RAyD8oT/view?usp=sharing)]
+* Download pre-trained weights into the same folder with demo scripts <br>Link: [[weights](https://drive.google.com/file/d/16vOMm7hIdmC6yL4FlBO4p_miTeUoskt7/view?usp=sharing)]
 
 
 ## Code
@@ -31,11 +31,11 @@ python eval_DAVIS.py -g '0' -s val -y 17 -D [path/to/DAVIS]
 
 ## Pre-computed Results
 We also provide pre-computed results for benchmark sets.
-* [[DAVIS-16-val]](https://drive.google.com/file/d/1s1qEUnLP8eEt64mxDv4VieZW0cEW09_u/view?usp=sharing)
-* [[DAVIS-17-val]](https://drive.google.com/file/d/1ZNbdME0SG5WIn1BoBnfQ9IkEFt4xmLA6/view?usp=sharing)
-* [[DAVIS-17-test-dev]](https://drive.google.com/file/d/1Fr50S37X0erJBEfWhNmU06tKIgSZvy3P/view?usp=sharing)
-* [[YouTube-VOS-18-valid]](https://drive.google.com/file/d/1dx3pbKQlp-80eekgp3i1leKXv_Jqv2JJ/view?usp=sharing)
-* [[YouTube-VOS-19-valid]](https://drive.google.com/file/d/10yu-HqXCQLQlLt0ZIlwfQ4cKW71OzndQ/view?usp=sharing)
+* [[DAVIS-16-val]](https://drive.google.com/file/d/1SqzBktU0DrSd5_vC7TVmPtXJBn3bqAfG/view?usp=sharing)
+* [[DAVIS-17-val]](https://drive.google.com/file/d/1uDx8rPo91qEnoE_nBCYF-A-G8noRq6G8/view?usp=sharing)
+* [[DAVIS-17-test-dev]](https://drive.google.com/file/d/18-p2ihxfHZisOghWiSpvlfbhpy1j1oSl/view?usp=sharing)
+* [[YouTube-VOS-18-valid]](https://drive.google.com/file/d/1cE9rtqdafXGm7V3rP2ZSXq56atoXVUg3/view?usp=sharing)
+* [[YouTube-VOS-19-valid]](https://drive.google.com/file/d/1bA2iv2KhjYGlw5i25dLPf24byt-5On2r/view?usp=sharing)
 
 
 ## Bibtex
